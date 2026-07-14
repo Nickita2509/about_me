@@ -42,6 +42,6 @@
 ## 📫 Контакты
 Буду рад обсудить вакансии Junior Tech Support / HelpDesk и возможности для профессионального роста!
 
-*   📧 Email: [freezethisboy@gmail.com](mailto:freezethisboy@gmail.com)
+*   📧 Email: [nickita.kozeev25@gmail.com](mailto:nickita.kozeev25@gmail.com)
 *   ✈️ Telegram: [@freezethus](https://t.me/freezethus)
 *   💼 LinkedIn: [Ссылка на профиль](#) *(link)*
