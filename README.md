@@ -31,11 +31,11 @@
 Все мои практические инженерные работы собраны в едином репозитории. Каждый проект внутри содержит подробный `README` с описанием задачи, архитектурой и инструкциями по запуску:
 
 * 📁 **[School 21 DevOps Portfolio](#)** *(link)*
-  * 🐧 **Linux Admin:** Ubuntu Server без GUI, netplan, SSH-hardening, анализ `/var/log/`.
-  * 🌐 **Networking:** Статическая маршрутизация, DHCP, NAT, фильтрация `iptables`, диагностика `tcpdump`/`iperf3`.
-  * ⚙️ **Automation:** Bash-скрипты для сбора метрик и парсинга Nginx-логов через `awk`.
-  * 📊 **Monitoring:** Стек Prometheus + Grafana, нагрузочное тестирование (`stress`).
-  * 🤖 **Integrations:** Развертывание n8n в Docker, интеграция с GigaChat API (HTTP, JSON, Swagger).
+  * 🐧 **DO1_Linux:** Ubuntu Server без GUI, netplan, SSH-hardening, анализ `/var/log/`.
+  * 🌐 **DO2_Linux_Network:** Статическая маршрутизация, DHCP, NAT, фильтрация `iptables`, диагностика `tcpdump`/`iperf3`.
+  * ⚙️ **DO3_Linux_Monitoring v1.0:** Bash-скрипты для сбора метрик и парсинга Nginx-логов через `awk`.
+  * 📊 **DO4_Linux_Monitoring v2.0:** Стек Prometheus + Grafana, нагрузочное тестирование (`stress`).
+  * 🤖 **Ai_agent:** Развертывание n8n в Docker, интеграция с GigaChat API (HTTP, JSON).
 
 ---
 
